@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Sulaiman</h1><br><h3 align="center">Aspiring DevOps Engineer | AWS Certified Cloud Practitioner | B.Tech CSE</h3><br><br>- 🌱 Learning **AWS, Docker, Kubernetes, Terraform, Jenkins & Ansible**<br>- 🚀 Building **Cloud & DevOps projects**<br>- 📫 Reach me: **your-email@example.com**<br>- 💼 LinkedIn: https://linkedin.com/in/mohasulai06<br>- ⚡ Goal: Become a Cloud & DevOps Engineer
+<h1 align="center">Hi 👋, I'm Mohamed Sulaiman</h1><br><h3 align="center"> Aspiring DevOps Engineer | AWS Certified Cloud Practitioner | B.Tech CSE</h3><br><br>- 🌱 Learning AWS, Jenkins, Chef, Ansible, Docker & Kubernetes <br>- 🚀 Building DevOps projects <br>- 📫 Reach me:mohamedsulaiman876@gmail.com <br>- 💼 LinkedIn: https://linkedin.com/in/mohasulai06<br>- ⚡ Goal: Become a Cloud & DevOps Engineer
 
 
 ## 🌐 Socials:
