@@ -4,6 +4,6 @@
 
 - 🌱 Learning **AWS, Docker, Kubernetes, Terraform, Jenkins & Ansible**
 - 🚀 Building **Cloud & DevOps projects**
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: mohamedsulaiman876@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/mohasulai06
 - ⚡ Goal: Become a Cloud & DevOps Engineer
